@@ -28,6 +28,23 @@
             <artifactId>webdrivermanager</artifactId>
             <version>5.3.1</version>
         </dependency>
+        
+        <!-- RestAssured-->
+        <dependency>
+            <groupId>io.rest-assured</groupId>
+            <artifactId>rest-assured</artifactId>
+            <version>4.4.0</version>
+        </dependency>
+        <dependency>
+        	<groupId>com.packt.test</groupId>
+        	<artifactId>mastering_selenium_webdriver</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
+        <dependency>
+        	<groupId>SeleniumFramework</groupId>
+        	<artifactId>SeleniumFramework</artifactId>
+        	<version>0.0.1-SNAPSHOT</version>
+        </dependency>
     </dependencies>
 
     <build>
